@@ -1,3 +1,20 @@
+// theory in prototype.
+// everythhing in js is an obj.
+// [] it is instance of array obj
+// instance of an obj can be created 
+// by using new keyword along wih function or 
+// new keyword along with class
+// prototype are property for every data type
+// every data type has parent fn constructor 
+// prototype is a keyword in it their are lot of property and methods to get accessed
+
+
+
+Array.prototype.myMap = function(){
+
+    } 
+*/
+
 // let  names = {
 //     firstname:'Hithesh',
 //     lastname:'PK'
