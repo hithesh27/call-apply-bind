@@ -8,13 +8,6 @@
 // every data type has parent fn constructor 
 // prototype is a keyword in it their are lot of property and methods to get accessed
 
-
-
-Array.prototype.myMap = function(){
-
-    } 
-*/
-
 // let  names = {
 //     firstname:'Hithesh',
 //     lastname:'PK'
